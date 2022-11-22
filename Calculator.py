@@ -172,5 +172,5 @@ elif choice==0:
 else:
     print("ERROR")
 
-
+print('Thanks')
 
